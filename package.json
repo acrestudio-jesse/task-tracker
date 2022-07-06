@@ -1,0 +1,15 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "Thank you for viewing this project.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "task-tracker"
+  },
+  "author": "Jesse T. Hickey",
+  "license": "ISC"
+}
